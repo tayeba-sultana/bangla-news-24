@@ -1,6 +1,7 @@
 "use client";
 
 import { authClient } from "@/lib/auth-client";
+import Image from "next/image";
 import Link from "next/link";
 
 const UserInfo = () => {
@@ -19,9 +20,11 @@ const UserInfo = () => {
           <Link href={"/profile"}>
             <div className="avatar">
               <div className="ring-primary ring-offset-base-100 w-10 rounded-full ring-2 ring-offset-2">
-                <img
+                <Image
                   alt="Tailwind-CSS-Avatar-component"
                   src={user?.image as string}
+                  width={40}
+                  height={40}
                 />
               </div>
             </div>
