@@ -28,7 +28,9 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         <Suspense fallback={<div>Loading header...</div>}>
   <Header />
 </Suspense>
-           <Marquee />
+          <Suspense fallback={<div>Loading news...</div>}>
+  <Marquee />
+</Suspense>
         <main className="max-w-7xl mx-auto">{children}</main>
         <div>Footer</div>
          <Toaster />
