@@ -1,6 +1,6 @@
 import Image from "next/image";
 import NavLinks from "./NavLinks";
-//import UserInfo from "./UserInfo";
+import UserInfo from "./UserInfo";
 
 
 const Header = () => {
@@ -26,7 +26,7 @@ const Header = () => {
         </div>
       </div>
 
-     {/* <UserInfo/> */}
+     <UserInfo/>
 
 
       <NavLinks />
