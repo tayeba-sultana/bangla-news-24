@@ -1,36 +1,43 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 📰 Bangla News 24
 
-## Getting Started
+**Bangla News 24** is a modern Bengali-language online news portal designed to deliver the latest news and updates from Bangladesh and around the world. It provides an organized and user-friendly platform where readers can explore news across multiple categories, read featured articles, and stay informed about current events.
 
-First, run the development server:
+🌐 **Live Website:** https://bangla-news-24-bay.vercel.app/
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## ✨ Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- 🏠 **Homepage:** Explore the latest and featured news from the homepage.
+- 📰 **Latest News:** Stay updated with the most recent news and headlines.
+- 🏛️ **Multiple Categories:** Browse news by category:
+  - Politics
+  - World
+  - Economy
+  - Health
+  - Sports
+  - Technology
+  - Video
+- ⭐ **Featured News:** Discover important and selected news articles.
+- 🔥 **Popular News:** Explore the most-read news stories.
+- 🎥 **Video Section:** Browse video-based news content.
+- 🔐 **User Authentication:** Sign-in and sign-up options for users.
+- 📱 **Responsive Design:** Designed to provide a convenient browsing experience across different devices.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🛠️ Technologies Used
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Next.js** – React framework for building the web application.
+- **React.js** – Component-based user interface development.
+- **JavaScript** – Application functionality.
+- **CSS** – Styling and layout.
+- **Vercel** – Application deployment and hosting.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## 📂 Project Purpose
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+The main goal of Bangla News 24 is to provide readers with an accessible digital news platform where they can easily discover and explore news from different categories in Bengali.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+The project focuses on content organization, a clean user experience, and convenient access to important news updates.
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📄 License
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This project is available for educational and personal use. Please check the repository for applicable licensing terms.
