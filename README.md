@@ -37,7 +37,3 @@ The main goal of Bangla News 24 is to provide readers with an accessible digital
 
 The project focuses on content organization, a clean user experience, and convenient access to important news updates.
 
-
-## 📄 License
-
-This project is available for educational and personal use. Please check the repository for applicable licensing terms.
