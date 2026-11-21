@@ -31,7 +31,7 @@
 - **Vercel** – Application deployment and hosting.
 
 
-## 📂 Project Purpose
+## 📂 Project Purpose:
 
 The main goal of Bangla News 24 is to provide readers with an accessible digital news platform where they can easily discover and explore news from different categories in Bengali.
 
